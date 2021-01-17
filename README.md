@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Hero Versus Dragon 
 ***Version 2***  
 
@@ -24,10 +23,3 @@ To run the game in the terminal: **go run Hero_vs_Dragon.go**
 - Hero gets more tired with every move, his accuracy decreases
 
 
-
-=======
-# Hero Versus Dragon
-
-This is a small console game, where you can try do defeat a dragon.  
-To run the game in the terminal: **go run Hero_vs_Dragon.go**
->>>>>>> 4fe3236cc7f1e4a6197705049d2f7bcb7d319aea
